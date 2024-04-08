@@ -63,10 +63,10 @@ MASQ: Decentralized mesh dvpn mutli app, this project is trying to give you a pr
 StreamrNetwork: Run a node for a decentralized streaming service, you can host 5 per ip address, you can get your tokens slashed apparently for uptime so it needs to be on a host with a fallback. However you can also stake their token if you dont feel like seetting all that up. Can be used while cpu/gpu mining.
 - https://www.coingecko.com/en/coins/streamr
 
-Humanode: Uses biometrics as a baseline for verification rounds, it gives you tokens if you get submitted into the round, but you need to scan your face for it every time, they might imrpove the system in the future so i keep an eye on it. Can be used while cpu/gpu mining.
+Humanode: Uses biometrics as a baseline for verification rounds, it gives you tokens if you get submitted into the round, but you need to scan your face for it every time, they might imrpove the system in the future so i keep an eye on it. Can be used while cpu/gpu mining. I dont use this service at the moment because my laptop is broken, i havent been able to get submitted into a round to get tokens yet.
 - https://www.coingecko.com/en/coins/humanode
 
-Idena: Similar to humanode you get submitted into a verification round, this project makes you do a captia that is inline with a story for verification but getting into the network is hard as you need a code from someone else on the network by using their telegram and then to pass the verification.
+Idena: Similar to humanode you get submitted into a verification round, this project makes you do a captia that is inline with a story for verification but getting into the network is hard as you need a code from someone else on the network by using their telegram and then to pass the verification. I personally dont use this service because the captias are too hard for me to get submitted into a round but the tech is very cool.
 - https://www.coingecko.com/en/coins/idena
 
 Mysterium: VPN Data Node, host a node for the network traffic and get tokens as a reward, they have 2 serperate apps one for anon and not anon services, you can disable the anon services on the node for safer traffic. Can be used while cpu/gpu mining.
