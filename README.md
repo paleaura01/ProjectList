@@ -60,7 +60,7 @@ WitNet: Run a node for a decentralized oracle service, it requires you to stake 
 MASQ: Decentralized mesh dvpn mutli app, this project is trying to give you a private browsing and crypto usage experience through their application, they have a browser, store and other tooling built into the node, you can be a provider as long as you hold 500 tokens to earn rewards.
 - https://masq.ai/
 
-StreamrNetwork: Run a node for a decentralized streaming service, you can host 5 per ip address, you can get your tokens slashed apparently for uptime so it needs to be on a host with a fallback. However you can also stake their token if you dont feel like seetting all that up. Can be used while cpu/gpu mining.
+StreamrNetwork: Run a node for a decentralized streaming service, you can host 5 per ip address, you can get your tokens slashed apparently for uptime so it needs to be on a host with a fallback, this node does have a slashing mechanism however so it might be better to stake depending on your skill levels. However you can also stake their token if you dont feel like seetting all that up. Can be used while cpu/gpu mining.
 - https://www.coingecko.com/en/coins/streamr
 
 Humanode: Uses biometrics as a baseline for verification rounds, it gives you tokens if you get submitted into the round, but you need to scan your face for it every time, they might imrpove the system in the future so i keep an eye on it. Can be used while cpu/gpu mining. I dont use this service at the moment because my laptop is broken, i havent been able to get submitted into a round to get tokens yet.
