@@ -1,7 +1,7 @@
 # Mining/Gaming:
  
 
-Flux: GPU Mineable, 1000 coins to turn wallet into a staking node.
+Flux: GPU Mineable, 50 coins to turn wallet into a staking titan node, 1000 for the next node up.
 - https://www.coingecko.com/en/coins/flux-zelcash
 
 Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
