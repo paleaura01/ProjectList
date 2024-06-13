@@ -1,45 +1,3 @@
-# Mining/Gaming:
- 
-
-Flux: GPU Mineable, 1000 coins to turn wallet into a staking node.
-- https://www.coingecko.com/en/coins/flux-zelcash
-
-Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
-- https://www.coingecko.com/en/coins/verus-coin
-
-Gridcoin: Folding proteins for cancer and medical research, get paid their token for doing something to help the world for higher end cpus. Cannot be used while CPU mining as it takes just as much resources.
-- https://gridcoin.us/guides/foldingathome.htm
-- https://www.coingecko.com/en/coins/gridcoin-research
-
-Presearch: Decentralized search engine that gives you tokens for your searches and lets you stake keywords and run a node at 4000 tokens.
-- Referral: https://presearch.com/signup?rid=2549705
-- https://www.coingecko.com/en/coins/presearch
-
-Brave: A browser that gives you tokens for running ads on your pc, must have ads turned on in windows for brave. 
-- https://www.coingecko.com/en/coins/basic-attention-token
-
-Decentr: Another broswer that gives you tokens for running it on your pc, good to use if you cant get onto a centralized exchange
-- https://www.coingecko.com/en/coins/decentr
-
-Satoxverse: Play2Earn for Steam games, requires a 20,000 coin stake per wallet to get in.
-- https://www.coingecko.com/en/coins/satoxcoin
-
-Neoxa: Play2Stream for any content on twitch (you have to be there, no restreaming allowed).
-- Referral: d094edbc
-- https://www.coingecko.com/en/coins/neoxa
-
-CryptoRoyale: Play2Earn crypto integrated game (the only one ive found that just gives you tokens for winning a game simply), their token is also stakable.
-- https://www.coingecko.com/en/coins/crypto-royale
-
-COIN App: A phone application that is kinda fun if you are bored and moving and want to make some tokens, it uses geolocation to mine blocks and give you its token, you can exchange its token for XYO tokens on the marketplace and sell those eventually there are a bunch of other cahs-out options though.
-- https://play.google.com/store/apps/details?id=network.xyo.coin&hl=en_US&gl=US&pli=1
-- https://www.coingecko.com/en/coins/xyo-network
-
-Replay: A earn to watch streaming service for regular tv channels and on demand, they pay in RPLY tokens.
-- https://rewards.imaginereplay.com/login?referralCode=UJUQZ7ML
-- https://www.coingecko.com/en/coins/replay
-
-
 # Ai Compute/Depin:
 
 Theta Edge Node: Run a node that does video encoding and AI/ML services. Can be used while cpu/gpu mining.
@@ -129,6 +87,48 @@ McMoney: A phone application that sends you ads in the format of sms messages, y
 - https://www.cm.com/mcmoney/
 
 
+# Mining/Gaming/Entertainment:
+ 
+
+Flux: GPU Mineable, 1000 coins to turn wallet into a staking node.
+- https://www.coingecko.com/en/coins/flux-zelcash
+
+Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
+- https://www.coingecko.com/en/coins/verus-coin
+
+Gridcoin: Folding proteins for cancer and medical research, get paid their token for doing something to help the world for higher end cpus. Cannot be used while CPU mining as it takes just as much resources.
+- https://gridcoin.us/guides/foldingathome.htm
+- https://www.coingecko.com/en/coins/gridcoin-research
+
+Presearch: Decentralized search engine that gives you tokens for your searches and lets you stake keywords and run a node at 4000 tokens.
+- Referral: https://presearch.com/signup?rid=2549705
+- https://www.coingecko.com/en/coins/presearch
+
+Brave: A browser that gives you tokens for running ads on your pc, must have ads turned on in windows for brave. 
+- https://www.coingecko.com/en/coins/basic-attention-token
+
+Decentr: Another broswer that gives you tokens for running it on your pc, good to use if you cant get onto a centralized exchange
+- https://www.coingecko.com/en/coins/decentr
+
+Satoxverse: Play2Earn for Steam games, requires a 20,000 coin stake per wallet to get in.
+- https://www.coingecko.com/en/coins/satoxcoin
+
+Neoxa: Play2Stream for any content on twitch (you have to be there, no restreaming allowed).
+- Referral: d094edbc
+- https://www.coingecko.com/en/coins/neoxa
+
+CryptoRoyale: Play2Earn crypto integrated game (the only one ive found that just gives you tokens for winning a game simply), their token is also stakable.
+- https://www.coingecko.com/en/coins/crypto-royale
+
+COIN App: A phone application that is kinda fun if you are bored and moving and want to make some tokens, it uses geolocation to mine blocks and give you its token, you can exchange its token for XYO tokens on the marketplace and sell those eventually there are a bunch of other cahs-out options though.
+- https://play.google.com/store/apps/details?id=network.xyo.coin&hl=en_US&gl=US&pli=1
+- https://www.coingecko.com/en/coins/xyo-network
+
+Replay: A earn to watch streaming service for regular tv channels and on demand, they pay in RPLY tokens.
+- https://rewards.imaginereplay.com/login?referralCode=UJUQZ7ML
+- https://www.coingecko.com/en/coins/replay
+
+
 # Staking/Vaults:
 
 Thorswap Earn Vaults: Built with HAVEN tech, earn rewards from swap fees into an autocompounding vault's native assets.
@@ -142,15 +142,9 @@ Kujira: Cool mechanism in its wallet that gives you dust from a ton of other pro
 Osmosis: The obvious choice for Liquidity Pools as Cosmos is a decentralized ecosystem with independant chains that scale, their token is also stakable although it is inflationary.
 - https://www.coingecko.com/en/coins/osmosis
 - https://app.osmosis.zone/
-- 
+  
 
-# Applications
-
-Brave Browser: The main crypto browser everyone uses to earn BAT tokens, pays out BAT tokens to uphold
-- https://www.coingecko.com/en/coins/basic-attention-token
-
-Decentr Browser: The other crypto broswer everyone uses to earn DEC tokens, but does not require a centralized exchange, you can exchange tokens through the cosmos network defi platforms.
-- https://www.coingecko.com/en/coins/decentr
+# Applications/Wallets
 
 Vidulum Wallet/Discord: This is a great multichain wallet service, their community is very active and they rain tokens with their tip bot all the time, especially when the market goes up. All thats required is to link the tipbot to vidulum in the settings.
 - https://www.coingecko.com/en/coins/vidulum
